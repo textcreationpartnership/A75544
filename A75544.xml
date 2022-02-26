@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Argument and reasons of the brethren of Trinity-house, touching the breach in the level near Purfleet in Essex whereby the river of Thames is much damnify'd, and the navigation thereof greatly obstructed, and in danger of being wholly destroy'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75544</idno>
+            <idno type="STC">Wing A3632B</idno>
+            <idno type="STC">ESTC R42463</idno>
+            <idno type="EEBO-CITATION">36281998</idno>
+            <idno type="OCLC">ocm 36281998</idno>
+            <idno type="VID">150019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2225:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Argument and reasons of the brethren of Trinity-house, touching the breach in the level near Purfleet in Essex whereby the river of Thames is much damnify'd, and the navigation thereof greatly obstructed, and in danger of being wholly destroy'd.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Flood control --  England.</term>
+               <term>Dikes --  England.</term>
+               <term>Thames River (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150019:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>20. Febr. 1694/5.</add>
+                  </date>
+               </dateline>
+            </opener>
+            <head>The Argument and Reaſons of the Brethren of <hi>Trinity-houſe,</hi> touching the Breach in the Level near <hi>Purfleet</hi> in <hi>Eſſex,</hi> whereby the River of <hi>Thames</hi> is much Damnify'd, and the Navigation thereof greatly obſtructed, and in danger of being wholly deſtroy'd.</head>
+            <p>THat the Cauſe which produc'd the ſaid Breach, was not from the weakneſs of the Sea-Banks, defect of Sluces, or want of care in the Proprietors of the Land to preſerve their defences againſt the Incroachments and Inundations of the River, in which Reach the Tydes are very rapid, and the weather often ſo dangerous, that for their own ſafety-ſake, they are forced to be more on their guard than other People; wherefore they keep their Sea-banks in better repair and are at a greater expence to ſecure their Land on that Level than moſt others. If this misfortune had befallen them through any neglect or default of theirs, why did not the Commiſſioners of Sewers foreſee the Danger by their Surveyors, and di<g ref="char:EOLhyphen"/>rect timely remedy? Or the Water-Bayliffs, who are the Conſervator's Inſtru<g ref="char:EOLhyphen"/>ments, diſcover the growing evil, and Caution the Proprietors before it was to late; for defects of that kind increaſe by degrees, and for the moſt part give warning enough before the miſchief happens. But neither the Commiſſioners of Sewers, who are very regular in their Surveys and ſevere in their Injunctions, nor the VVater-Bayliffs, who are the Conſervator's Officers, and are ſo very ſharp and mindful of their Buſineſs, that Complaints are often made of their double diligence, are in fault, ſo that it cannot be preſum'd that they had in any thing neglected their duty; nor the Proprietors, whoſe intereſt it is to preſerve their own Eſtates by keeping the Banks in good repair, are in the leaſt degree chargeable, becauſe it hath been prov'd, that tho they had all contribu<g ref="char:EOLhyphen"/>ted their utmoſt joynt Care and Forces in their ſeveral ſtations to have prevent<g ref="char:EOLhyphen"/>ed it, this great diſaſter had in all moral Probability notwithſtanding happened: In as much as no humane foreſight or wiſdom can obviate a miſchief that has never at any time before fallen out; (and ſuch was this Inundation) for tho the Banks of this Level were of a competent height, ſuch as that no objection was ever made to them, nor any Experience or Obſervation from any Tydes or VVea<g ref="char:EOLhyphen"/>ther, (in the memory of Man) has at any time heretofore been obſerved, to give them jealouſie; yet it pleas'd God to permit at that time ſuch a Deluge and ſwell of a Tyde, as ſurmounted by many feet the Tops of the ſaid Banks, and (not as hath been untruly objected) Broken them down through any neglect of thoſe whoſe duty it was to have kept them in better repair. This Deluge, then filling the Level, was by the Banks that were deſigned to keep the water out, made a deep ſtanding Lake of water, which had no way to iſſue back or diſcharge it ſelf but by forcing out the Banks that kept it in, which upon the coming of the Ebb, and falling away of the Tide came to Paſs; that great weight of water ſo confin'd, at length burſting out where the Breach now is, which was the Cauſe and the only Occaſion of the damage to the River, and to thoſe Gentlemen who are the ſufferers, and who now humbly apply for redreſs to that Authority from which alone they can juſtly hope for Succour.
+<pb facs="tcp:150019:2"/>People who are undone by Fire and Conflagrations are the objects of Parlia<g ref="char:EOLhyphen"/>mentary Care, and are conſtantly heard and relieved; this Calamity was the hand of God, and no humane Power cou'd have prevented it: Fire and water are mercileſs Enemies, and the ſufferers by the one ſeem to challenge as much right to compaſſion from the Publick as the other.</p>
+            <p>If the Remedy of the damage which the River of <hi>Thames</hi> has ſuſtained, and the Navigation thereof by this Breach (which is only a Conſequence and Coincidence of the Deluge and Inundation of this Level) ſhou'd be deemed chargeable on the Pro<g ref="char:EOLhyphen"/>prietors of the Land, while perhaps they might be able to drain the ſame for their own Private uſe, by methods that will come by two third parts cheaper than thoſe that are propoſed, and found neceſſary for the Rivers better conſervation. If this ſhould be their Sentence, I ſay, it would ſeem very grievous, and no body in time will think Land on the <hi>Thames</hi> Level worth the holding, and it may come to paſs, that by a few ſuch Preſidents the Banks will be totally neglected, and the River conſequently ſwallowed up and loſt in the ſaid Level. For as by tak<g ref="char:EOLhyphen"/>ing this Land heretofore out of the <hi>Thames</hi> (which is all under High-water mark) the Channel was at firſt begotten, and Navigation obtain'd, ſo by loſing it to the River again, the depth of Water and the Navigation will be loſt.</p>
+            <p>It was therefore their Opinion, That the Proprietors of the Level will be charg'd very ſufficiently, if over and above the money they have been already out of Purſe, amounting to at leaſt 3200 <hi>l.</hi> together with the loſs of their Land for many years to come after it ſhall be drain'd, if the ſaid proprietors be further made ly<g ref="char:EOLhyphen"/>able to reſtore and ſecure their own Sea-banks: while the repair of the main Breach which brings a National profit ſeems to call for a National expence; in as much as that for the ſake of the Rivers conſervation only that work is deſign'd, and for<g ref="char:EOLhyphen"/>aſmuch alſo as it requires an expence by many degrees Superiour to what may be computed ſimply neceſſary for the draining the Level. The charge of this Work therefore, which is to obtain a publick benefit, and is foreign to the uſes of drayning the Land ſeems to call for publick Compaſſion, and to require a publick Purſe to Compaſs. And not only a publick Purſe, but publick Care too, leaſt by bold and un<g ref="char:EOLhyphen"/>experienc'd Undertakers, who cannot poſſibly make a due judgment of the difficulty and danger of ſuch Works, the Nation, by a propoſal of ſaving a little Mo<g ref="char:EOLhyphen"/>ney (which works of this kind will by no means ſuffer) may chance to incurr a much greater Expence by the loſs of all their Labour and Charge: The undertaking thereby being render'd much more difficult and expenſſive than at firſt, and the Ri<g ref="char:EOLhyphen"/>ver of <hi>Thames</hi> damnified a new by the miſcarriage of ſuch ſlight and ineffectual projects, in as much as all the matter whereof their Defences are to be compos'd, muſt neceſſarily, in caſe of any diſaſter, be driven by the force of the water into the Channel.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
